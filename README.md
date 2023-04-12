@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Projects are available at [https://github.com/oussamaJMAA](https://github.com/oussamaJMAA)
 
-- 💬 Feel free to ask me about **Symfony4.4,SQL/MYSQL/PLSQL,Java,PHP and more**
+- 💬 Feel free to ask me about **Machine Learning & Deep Learning **
 
 - 📄 For a better view about me visit me on linkedin [https://www.linkedin.com/in/oussama-jmaa-217098171/](https://www.linkedin.com/in/oussama-jmaa-217098171/)
 

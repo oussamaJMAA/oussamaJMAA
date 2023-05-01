@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamajmaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussamajmaa" /> </p>
 
-- 👯 I’m currently collaborating on **TunisieTelecomIntranet**
+- 👯 I’m currently **looking for a data science internship**
 
 - 👨‍💻 My Projects are available at [https://github.com/oussamaJMAA](https://github.com/oussamaJMAA)
 

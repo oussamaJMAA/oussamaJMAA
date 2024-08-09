@@ -1,10 +1,10 @@
 ![MasterHead](https://img1bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_V7gXU6vn.gif)
 <h1 align="center">Hello! 👋, I am Oussama Jmaa</h1>
-<h3 align="center">A very passionate Data Science Student</h3>
+<h3 align="center">A passionate Data Scientist </h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamajmaa&label=Profile%20views&color=0e75b6&style=flat" alt="oussamajmaa" /> </p>
 
-- 👯 I’m currently **looking for a data science internship**
+- 👯 I’m a **looking for a data science enty level job and opportunities**
 
 - 👨‍💻 My Projects are available at [https://github.com/oussamaJMAA](https://github.com/oussamaJMAA)
 
